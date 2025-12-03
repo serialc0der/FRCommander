@@ -5,8 +5,7 @@ Modern, real-time station control & automation for FlexRadio.
 FlexPilot is a next-generation, cross-platform control and automation application for FlexRadio operators. Works as a companion to SmartSDR or completely stand-alone.
 It unifies radio control, rotators, amplifiers, antenna switching, audio routing, CW keying, and smart automation into one fast, modern interface—built for serious operators and modern shacks.
 
-🚀 Features
-🎛️ Radio Control
+🚀 Features 
 
 Built in Hamlib server for interfacing with other software
 
